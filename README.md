@@ -1,4 +1,6 @@
-# College Assistant
+# College Assistant using Langgraph
+
+working app=https://trwgmnwequi7xhkdx2pwny.streamlit.app/
 
 A smart college assistant built with Python, LangGraph, LangChain, Streamlit, and RAG (Retrieval-Augmented Generation).  
 It helps students ask questions about academic rules and fee structure using uploaded PDF documents.
